@@ -1,5 +1,6 @@
 import Button from "@/components/common/Button";
 import { useRouter } from "next/router";
+import { PostProps } from "../interface/index";
 
 interface PageRouteProps {
   pageRoute: string;
