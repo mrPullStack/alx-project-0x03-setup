@@ -14,3 +14,7 @@ export interface PostProps {
     title: string;
     body: string;
 }
+
+export interface PageRouteProps {
+    pageRoute: string;
+}
